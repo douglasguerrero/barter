@@ -14,4 +14,8 @@ export default defineMessages({
     id: 'boilerplate.components.Header.features',
     defaultMessage: 'Features',
   },
+  rawMaterial: {
+    id: 'boilerplate.components.Header.rawMaterial',
+    defaultMessage: 'Materia Prima',
+  },
 });
